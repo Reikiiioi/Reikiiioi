@@ -4,7 +4,7 @@ Developer of the MineDDoS project. Deeply involved in cybersecurity and network 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idea@devilnet.ru) 
-[![telegraml](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sypren) 
+[![telegraml](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mineddos) 
 
 # 💻 Tech Stack:
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
